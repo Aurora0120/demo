@@ -21,3 +21,5 @@ console.log(W + H);
 let Z: number = 3;
 let SEN: string = `I have ${Z} apples`;
 console.log(SEN);
+
+console.log('hello world');
